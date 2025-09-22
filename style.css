@@ -165,7 +165,7 @@ footer {
     flex-direction: column;
     background: #222;
     position: absolute;
-    top: 60px;
+    top: 10px;
     right: 0;
     width: 200px;
     display: none;
@@ -176,4 +176,5 @@ footer {
   .navbar:hover .nav-links {
     display: block;
   }
+
 }
